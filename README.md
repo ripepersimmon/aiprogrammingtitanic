@@ -1,5 +1,5 @@
 # aiprogrammingtitanic
-
+\n
 Project for 24-2 AI Programming Assignment
 2024 HUFS Global Campus
 
