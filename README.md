@@ -2,6 +2,6 @@
 
 Titanic Classify Project for 24-2 AI Programming Assignment
 2024 HUFS Global Campus
-
+==============================================================
 24-2 AI 프로그래밍 과제를 위한 타이타닉 분류 프로젝트입니다.
 2024 한국외국어대학교 글로벌캠퍼스
